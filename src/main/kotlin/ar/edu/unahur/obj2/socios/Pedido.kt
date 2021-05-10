@@ -1,4 +1,3 @@
 package ar.edu.unahur.obj2.socios
 
-class Pedido(val precio : Int){
-}
+class Pedido(val precio : Int)
